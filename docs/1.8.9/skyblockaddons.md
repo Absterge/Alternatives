@@ -36,14 +36,14 @@ Before reading these alternatives we recommend taking a look at [Kuschel-Swein's
 * Dragon Tracker - ?
 * Drill Fuel Bar - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Drill Fuel Number - ?
-* Dungeon Death Counter - ?
+* Dungeon Death Counter - [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest) / [hannibal2's SkyHanni](https://github.com/hannibal002/SkyHanni/releases)
 * Dungeon Map Display - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest) / [Syeyoung's DungeonGuide](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/latest) / [Sychic & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases/latest)
 * Dungeons Collected Essences Display - ?
 * Dungeons Secret Display  - ?
 * Dungeons Teammate Name Overlay - ?
 * Effective Health Number - ?
 * Endstone Protector Display - ?
-* Fancy Warp Menu - ?
+* Fancy Warp Menu - [ILikePlayingGames' Fancy Warp Menu](https://github.com/ILikePlayingGames/FancyWarpMenu/releases/latest)
 * Fishing Particle Overlay - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates/releases/latest)
 * Full Inventory Warning - ?
 * Full Minion Warning - ?
